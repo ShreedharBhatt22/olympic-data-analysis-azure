@@ -1,4 +1,5 @@
 # olympic-data-analysis-azure
+![architecture.png](architecture.png)
 
 ●	This project focuses on Olympics Data Engineering and Analytics completed in January 2024. It showcases a robust data pipeline built using Azure Cloud Computing Services. The pipeline dynamically scales to handle large data volumes and ingests data from Azure Data Factory into Data Lake Storage, organized into 8 distinct containers for efficient storage and retrieval. This setup ensures scalability, reliability, and cost-effectiveness.
 
